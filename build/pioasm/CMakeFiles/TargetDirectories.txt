@@ -1,0 +1,3 @@
+/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pioasm/CMakeFiles/pioasm.dir
+/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pioasm/CMakeFiles/rebuild_cache.dir

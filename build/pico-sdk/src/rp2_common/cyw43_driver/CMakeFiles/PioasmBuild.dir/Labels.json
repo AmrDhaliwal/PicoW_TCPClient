@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

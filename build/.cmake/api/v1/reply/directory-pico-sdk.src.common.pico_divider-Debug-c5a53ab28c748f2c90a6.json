@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common/pico_divider",
+		"source" : "/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_divider"
+	}
+}
