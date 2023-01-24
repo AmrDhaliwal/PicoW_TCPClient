@@ -83,923 +83,66 @@ TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/TCP_Client.c.s"
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/TCP_Client/TCP_Client.c -o CMakeFiles/TCP_Client.dir/TCP_Client.c.s
 
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
-
-TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
-	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
 
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
@@ -1013,7 +156,7 @@ TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c
 
 TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
@@ -1024,14 +167,2269 @@ TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
 
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/lock_core.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/time.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/timeout_helper.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/timer.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/datetime.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/pheap.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/mutex.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/critical_section.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/uart.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_math.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building ASM object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj   -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/flags.make
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj: /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj: TCP_Client/CMakeFiles/TCP_Client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj -MF CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj.d -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj -c /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c > CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i
+
+TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s"
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c -o CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s
+
 # Object files for target TCP_Client
 TCP_Client_OBJECTS = \
 "CMakeFiles/TCP_Client.dir/TCP_Client.c.obj" \
-"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
-"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj" \
@@ -1054,7 +2452,6 @@ TCP_Client_OBJECTS = \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj" \
-"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj" \
@@ -1093,18 +2490,118 @@ TCP_Client_OBJECTS = \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj" \
 "CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj" \
-"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" \
-"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj" \
+"CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj"
 
 # External object files for target TCP_Client
 TCP_Client_EXTERNAL_OBJECTS =
 
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.obj
-TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
-TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_sync/sem.c.obj
@@ -1127,7 +2624,6 @@ TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desk
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
-TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
@@ -1166,12 +2662,101 @@ TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desk
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/tusb.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
-TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj
+TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/build.make
+TCP_Client/TCP_Client.elf: pico-sdk/src/rp2_common/cyw43_driver/cyw43_resource.o
 TCP_Client/TCP_Client.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 TCP_Client/TCP_Client.elf: TCP_Client/CMakeFiles/TCP_Client.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Linking CXX executable TCP_Client.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Linking CXX executable TCP_Client.elf"
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_Client.dir/link.txt --verbose=$(VERBOSE)
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-objcopy -Oihex /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client/TCP_Client.elf TCP_Client.hex
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client && /usr/local/bin/arm-none-eabi-objcopy -Obinary /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build/TCP_Client/TCP_Client.elf TCP_Client.bin

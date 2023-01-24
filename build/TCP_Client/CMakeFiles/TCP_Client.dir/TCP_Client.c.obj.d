@@ -1,21 +1,25 @@
 TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.obj: \
  /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/TCP_Client/TCP_Client.c \
- /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/stdio.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/string.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/_ansi.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/newlib.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/_newlib_version.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/config.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/ieeefp.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/features.h \
- /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/cdefs.h \
- /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/_default_types.h \
- /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
- /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/reent.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/_ansi.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/_types.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/_types.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/_default_types.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/lock.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/cdefs.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/_locale.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/strings.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/string.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/stdio.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/types.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/_stdint.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/endian.h \
@@ -29,7 +33,7 @@ TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.obj: \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/sched.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/types.h \
  /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/stdio.h \
- /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico/types.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico/assert.h \
@@ -49,7 +53,11 @@ TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.obj: \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico/types.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico/error.h \
- /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_config.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/include/cyw43_configport.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch/arch_threadsafe_background.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch/arch_common.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_time/include/pico/time.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h \
@@ -65,8 +73,53 @@ TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.obj: \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_base/include/pico/error.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/netif.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/opt.h \
+ /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/TCP_Client/lwipopts.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/debug.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/arch.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/include/arch/cc.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/stdlib.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/machine/stdlib.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/alloca.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/inttypes.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include-fixed/limits.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/lib/gcc/arm-none-eabi/10.3.1/include-fixed/syslimits.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/limits.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/sys/syslimits.h \
+ /usr/local/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/arm-none-eabi/include/ctype.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/err.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip_addr.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/def.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip4_addr.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip6_addr.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/def.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/pbuf.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/stats.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/mem.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/memp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/priv/memp_std.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/priv/memp_priv.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/priv/mem_priv.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/dhcp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/udp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip4.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/prot/ip4.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/ip6.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/prot/ip.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/prot/udp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_country.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
  /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/tcp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/tcpbase.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/icmp.h \
+ /Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/include/lwip/prot/icmp.h

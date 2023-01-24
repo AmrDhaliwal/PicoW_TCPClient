@@ -20,5 +20,14 @@ endif()
 # initialize the Raspberry Pi Pico SDK
 pico_sdk_init()
 
+if (PICO_CYW43_SUPPORTED)
+    if (NOT TARGET pico_cyw43_arch)
+        message("WIFI SSID AND PASSWORD NOT SET!")
+    else()
+        set(WIFI_SSID "${WIFI_SSID}" CACHE INTERNAL "Wifi SSID for project")
+        set(WIFI_PASSWORD "${WIFI_PASSWORD}" CACHE INTERNAL "Wifi Password for project")
+    endif()
+endif()
+
 # Add blink subdirectory
 add_subdirectory(TCP_Client)

@@ -168,6 +168,2142 @@ TCP_Client.c.s:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/TCP_Client.c.s
 .PHONY : TCP_Client.c.s
 
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.c.s
+
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
 
@@ -816,6 +2952,30 @@ Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.c.s
 
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.c.s
+
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.obj
 
@@ -871,6 +3031,54 @@ Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.c.s
 
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.obj
@@ -951,6 +3159,30 @@ Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
 
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.obj
@@ -1152,6 +3384,102 @@ Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
 
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.obj
 
@@ -1319,6 +3647,54 @@ Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj:
 	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.c.s
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.obj
+
+# target to build an object file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.obj
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.i: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.i
+
+# target to preprocess a source file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.i
+
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.s: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.s
+
+# target to generate assembly for a file
+Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s:
+	cd /Users/amrit/Desktop/GitHub_Repos/PicoW_TCPClient/build && $(MAKE) $(MAKESILENT) -f TCP_Client/CMakeFiles/TCP_Client.dir/build.make TCP_Client/CMakeFiles/TCP_Client.dir/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s
+.PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.c.s
 
 Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.obj: Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
 .PHONY : Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.obj
@@ -1637,6 +4013,273 @@ help:
 	@echo "... TCP_Client.obj"
 	@echo "... TCP_Client.i"
 	@echo "... TCP_Client.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_ll.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/cyw43-driver/src/cyw43_stats.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_lib.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/api_msg.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/err.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/if_api.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netbuf.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netdb.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/netifapi.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/sockets.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/api/tcpip.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_alloc.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/altcp_tcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/def.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/dns.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/inet_chksum.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/init.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ip.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/acd.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/autoip.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/dhcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/etharp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/icmp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/igmp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ethip6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/icmp6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/inet6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/mld6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/ipv6/nd6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/mem.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/memp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/netif.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/pbuf.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/raw.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/stats.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/sys.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_in.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/tcp_out.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/timeouts.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/core/udp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ethernet.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_ble.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/lowpan6_common.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/auth.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ccp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap-new.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/demand.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eap.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ecp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/eui64.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/fsm.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/lcp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/magic.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/mppe.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/multilink.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/ppp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppapi.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppoe.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/pppos.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/upap.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/utils.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/ppp/vj.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/slipif.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/lwip/src/netif/zepif.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s"
@@ -1718,6 +4361,9 @@ help:
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/common/pico_util/queue.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/cyw43_driver/cyw43_bus_pio_spi.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_claim/claim.s"
@@ -1725,6 +4371,12 @@ help:
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_clocks/clocks.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_divider/divider.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_dma/dma.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_exception/exception.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_flash/flash.s"
@@ -1735,6 +4387,9 @@ help:
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pio/pio.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/hardware_pll/pll.s"
@@ -1760,6 +4415,18 @@ help:
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_bootrom/bootrom.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_divider/divider.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_aeabi.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_double/double_init_rom.obj"
@@ -1781,6 +4448,12 @@ help:
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_math.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/nosys.s"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.obj"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.i"
+	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_lwip/random.s"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.obj"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.i"
 	@echo "... Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.s"

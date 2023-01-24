@@ -497,6 +497,10 @@ PICO_PLATFORM_CMAKE_FILE:INTERNAL=/Users/amrit/Desktop/PICO_REPOS/pico-sdk/src/r
 //Enable build of SDK tests
 PICO_SDK_TESTS_ENABLED:INTERNAL=
 PICO_TOOLCHAIN_PATH:INTERNAL=
+//Wifi Password for project
+WIFI_PASSWORD:INTERNAL=
+//Wifi SSID for project
+WIFI_SSID:INTERNAL=
 //Compiler reason failure
 _Python3_Compiler_REASON_FAILURE:INTERNAL=
 //Development reason failure
